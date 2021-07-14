@@ -1,0 +1,13 @@
+print(7+2) #addition of two integers
+
+print(7-2) #subtraction of two integers
+
+print(7*2) #Multiplication of two integers
+ 
+print(7/2) #Division of two integers
+
+print(7%2) #Remainder on the division of two integers
+
+print(7**2) #Exponentiation of one integer raised to the power of another integer
+
+print(7.8//2) #Rounding down the quotient of two integers
